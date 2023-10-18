@@ -80,7 +80,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 15rem;
+    gap:10rem;
 }
 
 .main-content {
@@ -103,7 +103,7 @@ body {
 }
 
 .c-text {
-    font-size: 3.5rem;
+    font-size: 7rem;
     margin-bottom: 20px;
 }
 
